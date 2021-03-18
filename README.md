@@ -1,2 +1,2 @@
 # FrontendSite
-I developed this simple site while learning the beginning of bootstrap.
+I developed this responsive simple site while learning the beginning of bootstrap.
